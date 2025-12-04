@@ -1,0 +1,6 @@
+- `npm i`
+- `npm run dev`
+- open
+- click "Sign In"
+- click "go home"
+- clerk redirects you to `/login#/?redirect_url=http%3A%2F%2Flocalhost%3A3001%2F`
